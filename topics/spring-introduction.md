@@ -2,9 +2,11 @@
 
 https://github.com/nicklasdean/HelloSpring
 
-![Spring Initializr](spring-introduction.assets/image-20210923090318535.png)
+![New project from wizard](spring-introduction.assets/image-20210923092334208.png)
 
-![Naming the project](spring-introduction.assets/image-20210923090334712.png)
+![Naming](spring-introduction.assets/image-20210923092402242.png)
 
-![Dependencies](spring-introduction.assets/image-20210923090345394.png)
+![Dependencies](spring-introduction.assets/image-20210923092414549.png)
+
+![Done](spring-introduction.assets/image-20210923092447170.png)
 
