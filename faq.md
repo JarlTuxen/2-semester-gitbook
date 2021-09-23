@@ -1,15 +1,16 @@
 # FAQ
 
-#### Hand-ins
+## Hand-ins
 
-- Feedback will be provided if current state of code is handed in
-- The code does not have to live up to all requirements - and can serve as feedforward (what to do from here)
+* Feedback will be provided if current state of code is handed in
+* The code does not have to live up to all requirements - and can serve as feedforward \(what to do from here\)
 
-#### Mandatories
+## Mandatories
 
-- No mandatory weekly assignments
-- 2 projects that has to be passed to be eligeble for exam
+* No mandatory weekly assignments
+* 2 projects that has to be passed to be eligeble for exam
 
-#### Exam
+## Exam
 
-- Project exam
+* Project exam
+
