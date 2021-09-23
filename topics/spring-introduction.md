@@ -1,4 +1,4 @@
-# Spring introduction
+# Introduction to Spring
 
 https://github.com/nicklasdean/HelloSpring
 
