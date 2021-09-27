@@ -70,36 +70,6 @@ Use hyphen between names (https://google.github.io/styleguide/htmlcssguide.html#
 
 
 
-### HTML elements
-
-An html element is the tag together with the content. So fx `<p></p>` is just the `p` tag. `<p>This is the content</p>` this would be a `p` html element.
-
-
-
-*Exercise*
-
-Spend 10 min in a breakout room. investigating a specific tag. Investigate these things:
-
-1. What the tag does
-2. When to use it
-3. How it can be used (practical code example)
-
-
-
-Here are the tags for each group
-
-- Group 1 - header tag
-- Group 2 - ul and ol tag
-- Group 3 - img tag
-- Group 4 - section tag
-- Group 5 - head tag
-- Group 6 - nav tag
-- Group 7 - div tag
-
-I will pick three groups to present their findings for the class
-
-
-
 ### HTML document structure
 
 An html document is divided into different parts:
@@ -186,19 +156,7 @@ The nodes have relationships between each other.
 - Who is the `h1`'s grandparent?
 - How many children does the `HTML` element have?
 
-If all of this is a bit confusing i get it! Try go [here](https://software.hixie.ch/utilities/js/live-dom-viewer/ ) where you can see the html file, the DOM and the rendered html.
-
-
-
-Use this checklist for writing good html!
-
-- [ ] Are the class names and id’s semantic and do they describe the content of the tag?
-- [ ] Has id’s and class names been used correctly.
-- [ ] Has the correct tag been used. Fx is main, header, footer, section, nav used properly.
-- [ ] Is the html correctly implemented. 
-- [ ] Are there unnecessary wrappers?
-- [ ] Has kebab-case been used? `product-list`
-- [ ] Has alt attributes been written for `img` tags?
+If all of this is a bit confusing i get it! [Here](https://software.hixie.ch/utilities/js/live-dom-viewer/ ) you can see the html file, the DOM and the rendered html.
 
 
 

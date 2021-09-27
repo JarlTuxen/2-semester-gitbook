@@ -329,44 +329,14 @@ https://getbootstrap.com
 
 
 
-## How to deconstruct a layout
-
-https://www.amsiq.com/da
-
-
-
-## *Exercise*
-
-Try and recreate the layout below with the code found [here](https://github.com/behu-kea/dat20-classes/tree/master/week-1/exercises/flexbox). You can clone the project and open the files in IntelliJ or just copy the files to your computer. Thats up to you. 
-
-![hyf-exercise](./assets/hyf-flexbox-mockup.png)
-
-
-
 ## Working with the inspector
 
 You can see the css for any element on the web. Right click on the element and choose inspect element. 
-
-
 
 on the right hand side you can see the styles applied to the element you have inspected. In the `element` panel you can write your own css rules!
 
 
 
 ![Screenshot 2021-02-11 at 13.44.35](./assets/inspector.png)
-
-
-
-#### CSS checklist
-
-- [ ] Is the css imported using the style tag.
-- [ ] Are there unused selectors.
-- [ ] Are there lots of fixed pixel values. This could affect responsive layouts.
-- [ ] Try to avoid absolute positioning as this tends to break responsive layouts.
-- [ ] Use flexbox over floats.
-- [ ] Avoid using `!important` statements.
-- [ ] Avoid inline styles
-- [ ] Consistent naming and grouping of css-classes (see naming conventions below)
-- [ ] CSS selectors are only as specific as they need to be
 
 

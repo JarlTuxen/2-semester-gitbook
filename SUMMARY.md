@@ -6,4 +6,3 @@
 * [HTML](topics/html.md) 
 * [CSS](topics/css.md) 
 * [FAQ](faq.md)
-
