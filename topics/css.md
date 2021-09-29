@@ -24,10 +24,6 @@ Create a css file. Fx `main.css`. To add the css to your html, add this line in 
 
 ## CSS selectors and properties
 
-
-
-
-
 CSS has two parts:
 
 1. The selector - specifies what html elements to style
@@ -173,21 +169,7 @@ A property in css is the styling you want to apply to an element. You write a pr
 
 
 
-*Exercise - selecting elements - 20 min*
-
-https://flukeout.github.io/
-
-Hopefully we can do it as pair programming exercise. One drives, one supports. 
-
-The driver shares his/her screen. Halfway switch. 
-
-The html tags are not standard html tags like `div`, `p` and `section`. But the concept of selecting is the same. 
-
-
-
 ## CSS layout
-
-CSS layouting is hard!
 
 CSS layouting decides how elements are layouts. What comes on top/to the left of what. 
 
@@ -260,7 +242,7 @@ section .user-name {
 }
 ```
 
-![image-20210929141150332](css.assets/image-20210929141150332.png)
+![image-20210929141444059](css.assets/image-20210929141444059.png)
 
 ### Flex
 
