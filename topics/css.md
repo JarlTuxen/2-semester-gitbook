@@ -260,11 +260,7 @@ section .user-name {
 }
 ```
 
-
-
-![Diagram: comparison of static, relative, absolute, and fixed positioning schemes](/Users/benjamin-hughes/Documents/projects/dat20-classes/week-1/assets/css-positioning.png)
-
-
+![image-20210929141150332](css.assets/image-20210929141150332.png)
 
 ### Flex
 
