@@ -1,26 +1,5 @@
 # CSS
 
-- Adding css to your site
-- Css selectors: 
-  - Id, class, type
-  - Child `.red-color .text` and `.red-color, .text`
-  - Pseudo selector `.red-color:hover
-  - *exercise*
-- Properties 
-- Layout
-  - Flow
-    - Block flow
-    - Inline flow
-  - Positioning
-    - Static, relative, absolute, fixed
-    - Flexbox
-- Bootstrap
-- Inspector
-
-
-
-## What is css?
-
 CSS stands for cascading style sheets.  It means the styles that are added for an element cascades down to their children. Its like a waterfall where the water will continue cascading down affecting the pools below. 
 
 Lets see a concrete example of that! 
@@ -338,5 +317,4 @@ on the right hand side you can see the styles applied to the element you have in
 
 
 ![Screenshot 2021-02-11 at 13.44.35](./assets/inspector.png)
-
 
