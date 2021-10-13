@@ -7,3 +7,4 @@
 * [CSS](topics/css.md) 
 * [FAQ](faq.md)
 * [HTML in Spring boot](topics/html-spring.md) 
+* [Database exercise](exercises/database:employees-departments.md) 
