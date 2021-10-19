@@ -5,8 +5,7 @@
 * [Spring 2: Movie workshop](topics/spring-introduction-2.md) 
 * [HTML](topics/html.md) 
 * [CSS](topics/css.md) 
-* [FAQ](faq.md)
 * [HTML in Spring boot](topics/html-spring.md) 
 * [Database exercise](exercises/database:employees-departments.md) 
 * [HTML Forms](topics/html-forms.md) 
-
+* [FAQ](faq.md)
