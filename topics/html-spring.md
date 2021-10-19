@@ -4,26 +4,24 @@ Github example: https://github.com/nicklasdean/html-spring.git
 
 ##### New project: Spring Initializr
 
-![image-20211001122727261](Untitled.assets/image-20211001122727261.png)
+![image-20211019084701774](html-spring.assets/image-20211019084701774.png)
 
 ##### IMPORTANT: Check Spring Web & Thymeleaf
 
-![image-20211001122830057](Untitled.assets/image-20211001122830057.png)
-
-
+![image-20211019084717428](html-spring.assets/image-20211019084717428.png)
 
 ##### Controller: Returning the names of HTML files
 
-![image-20211001123153328](Untitled.assets/image-20211001123153328.png)
+![image-20211019084729298](html-spring.assets/image-20211019084729298.png)
 
 ##### html files in the "templates" folder 
 
-![image-20211001123403866](Untitled.assets/image-20211001123403866.png)
+![image-20211019084823434](html-spring.assets/image-20211019084823434.png)
 
 ##### Front page
 
-![image-20211001123448215](Untitled.assets/image-20211001123448215.png)
+![image-20211019084840114](html-spring.assets/image-20211019084840114.png)
 
 ##### About page
 
-![image-20211001123516352](Untitled.assets/image-20211001123516352.png)
+![image-20211019084851103](html-spring.assets/image-20211019084851103.png)
