@@ -180,11 +180,11 @@ public class ConnectionExample {
 
 We are building a startup together! The startup is called FreeMoneyNoScam.dk
 
-**Fork this repository: https://github.com/nicklasdean/free-money-no-scam.git**
+**You can fork this repository: https://github.com/nicklasdean/free-money-no-scam.git**
 
 The first objective from our startup is collecting as many valid mail-addresses as possible and saving them in a database (for very legal and ethical purposes). 
 
 - We also need to confirm that the mail addresses are valid. An e-mail validation service.
   - For the first iteration a valid e-mail contains a *"@"* an at least 1 *"."*
 - If the user enters a valid e-mail - direct them to a success site.
-  - Use the PRG pattern described on this site
+  - Use the PRG pattern described on this site above
