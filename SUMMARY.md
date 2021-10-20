@@ -10,4 +10,3 @@
 * [HTML Forms](topics/html-forms.md) 
 * [Thymeleaf](topics/Thymeleaf.md) 
 * [FAQ](faq.md)
-
