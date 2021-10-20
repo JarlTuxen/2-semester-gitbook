@@ -198,7 +198,7 @@ https://www.baeldung.com/spring-thymeleaf-fragments
 - Write a controller EmailController
   - The Controller returns an HTML page
   - The Controller adds an e-mail from the "fetchSingleEmail" method
-- Write an HTML template that displatys the email using Thymeleaf
+- Write an HTML template that displays the email using Thymeleaf
 
 
 
