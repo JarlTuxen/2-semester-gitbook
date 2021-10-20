@@ -8,4 +8,5 @@
 * [HTML in Spring boot](topics/html-spring.md) 
 * [Database exercise](exercises/database:employees-departments.md) 
 * [HTML Forms](topics/html-forms.md) 
+* [Thymeleaf](topics/Thymeleaf.md) 
 * [FAQ](faq.md)
