@@ -202,6 +202,15 @@ https://www.baeldung.com/spring-thymeleaf-fragments
 
 
 
+### Refactor the code
+
+- Add a method to EmailRepository
+  - fetchAllEmails
+  - The method returns a list of 4 e-mails
+- Refactor the template such that all e-mails are displayed
+
+
+
 # Exercise 2
 
 Finish the FreeMoneyNoScam application with the following requirements fulfilled:
