@@ -200,16 +200,12 @@ https://www.baeldung.com/spring-thymeleaf-fragments
   - The Controller adds an e-mail from the "fetchSingleEmail" method
 - Write an HTML template that displays the email using Thymeleaf
 
-
-
 ### Refactor the code
 
 - Add a method to EmailRepository
   - fetchAllEmails
   - The method returns a list of 4 e-mails
 - Refactor the template such that all e-mails are displayed
-
-
 
 # Exercise 2
 
