@@ -214,3 +214,16 @@ Finish the FreeMoneyNoScam application with the following requirements fulfilled
 - A user should be able to register their e-mail by a POST-request and a simple form
   - The e-mail should be saved in a database
 - A user should be able to see all registered e-mails on a seperate template
+
+
+
+# Advanced (Optional)
+
+Write an application that:
+
+- Fetches news from an XML stream from a mainstream news-outlet. (This could be BT, Ekstra Bladet, Politiken etc.)
+
+- Displays the news from a mainstream news-outlet.
+
+
+
