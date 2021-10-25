@@ -9,4 +9,5 @@
 * [Database exercise](exercises/database:employees-departments.md) 
 * [HTML Forms](topics/html-forms.md)
 * [Thymeleaf](topics/Thymeleaf.md)
+* [Backend Design.md](topics/backend-design.md) 
 * [FAQ](faq.md)
