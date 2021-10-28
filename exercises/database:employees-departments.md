@@ -20,14 +20,14 @@ DROP TABLE if exists employees;
 DROP TABLE if exists departments;
 
 CREATE TABLE departments (	
-	department_number INTEGER, 
+	department_number INTEGER AUTO_INCREMENT, 
 	department_name VARCHAR(30), 
 	location VARCHAR(30), 
 	PRIMARY KEY (department_number)
 ); 
 
 CREATE TABLE employees(	
-	id INTEGER, 
+	id INTEGER AUTO_INCREMENT, 
 	employee_name VARCHAR(30), 
 	job VARCHAR(30), 
 	manager INTEGER, 

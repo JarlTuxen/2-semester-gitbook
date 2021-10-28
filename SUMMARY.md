@@ -11,4 +11,3 @@
 * [Thymeleaf](topics/Thymeleaf.md)
 * [Backend Design.md](topics/backend-design.md) 
 * [FAQ](faq.md)
-
