@@ -1,7 +1,5 @@
 # Unit Tests: Pair programming
 
-https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
-
 You will be working in the groups, that you are currently already assigned in the UI project.
 
 ###### Answer the following questions
