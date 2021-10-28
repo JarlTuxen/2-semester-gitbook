@@ -1,8 +1,21 @@
 # Unit Tests: Pair programming
 
+**Very informative article** 
+
+https://freecontent.manning.com/making-better-unit-tests-part-1-the-aaa-pattern/
+
+**Exercise**
+
+- Write unit tests that verifies that your e-mail verification services works as intended
+  - Identify cases & borderline analysis
+- Write unit tests that verifies that two of your end-points in movie-analysis works as intended
+  - Identify cases & borderline analysis
+
+###### Advanced
+
 https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
 
-###### Answer the following questions
+###### Answer the following questions:
 
 ###### 1. What are the contents of the data-set?
 
@@ -25,3 +38,4 @@ Write services with methods that answers the following questions:
 
 
 Write unit tests to prove your service methods works
+
