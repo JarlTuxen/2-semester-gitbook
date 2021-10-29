@@ -8,7 +8,7 @@ https://freecontent.manning.com/making-better-unit-tests-part-1-the-aaa-pattern/
 
 - Write unit tests that verifies that your e-mail verification services works as intended
   - Identify cases & borderline analysis
-- Write unit tests that verifies that two of your end-points in movie-analysis works as intended
+- Write unit tests that verifies that two of your service methods in movie-analysis works as intended
   - Identify cases & borderline analysis
 
 ###### Advanced
