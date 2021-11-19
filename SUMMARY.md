@@ -11,5 +11,5 @@
 * [Thymeleaf](topics/Thymeleaf.md)
 * [Backend Design](topics/backend-design.md) 
 * [Unit tests](topics/Unit-test.md)
-* [Sessions.md](topics/sessions.md) 
+* [Sessions](topics/sessions.md) 
 * [FAQ](faq.md)
