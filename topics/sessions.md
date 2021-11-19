@@ -163,7 +163,7 @@ We can also use `session.size()` and `session.isEmpty()`
 
 - Add functionality such that a customer can add cookies to his/her basket and change pages without losing the baskets state
 
-- Add functionality such that the basket apge displays the total sum of cookies in his/hers basket
+- Add functionality such that the basket page displays the total sum of the price of cookies in his/hers basket
 
 
 
