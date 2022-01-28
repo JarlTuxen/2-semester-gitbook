@@ -6,7 +6,7 @@ Usually these are interview questions from FAANG companies or other highly regar
 
 If you have a better name for the challenge please post it here 😅: 
 
-- https://forms.office.com/Pages/ResponsePage.aspx?id=bjwM0SjCREmLamBnxq_jyaTsoAOojZ5AoaqUUFwjB19UMk00TDhXQ1U0RlhPSkJGRFgzTlBFUTdLNC4u
+https://forms.office.com/Pages/ResponsePage.aspx?id=bjwM0SjCREmLamBnxq_jyaTsoAOojZ5AoaqUUFwjB19UMk00TDhXQ1U0RlhPSkJGRFgzTlBFUTdLNC4u
 
 In the future I will aspire to include leaderbord, prizes and/or other stuff. (If students are willing to participate)
 
