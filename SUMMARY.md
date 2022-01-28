@@ -13,5 +13,5 @@
 * [Unit tests](topics/Unit-test.md)
 * [Sessions](topics/sessions.md)
 * [Oyster of the week](topics/oysters/Introduction.md)
-  * [1.md](topics/oysters/week-1.md) 
+  * [1](topics/oysters/week-1.md) 
 * [FAQ](faq.md)
