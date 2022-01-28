@@ -14,6 +14,6 @@ For now answers are send to my e-mail: NIFR@kea.dk
 
 ### Rules:
 
-- The solution **must** solve the primary problem
-- The submission **must** include a github link to the solution
-- The submission **must** be handed in before deadline
+- ☑️ The solution **must** solve the primary problem
+- ☑️ The submission **must** include a github link to the solution
+- ☑️ The submission **must** be handed in before deadline
