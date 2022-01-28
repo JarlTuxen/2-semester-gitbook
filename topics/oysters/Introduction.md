@@ -1,4 +1,4 @@
-# Weekly optional challenges
+# 🐙 Oyster of the week
 
 Every 2. week I will post a challenging programming exercise.
 
@@ -12,4 +12,8 @@ In the future I will aspire to include leaderbord, prizes and/or other stuff. (I
 
 For now answers are send to my e-mail: NIFR@kea.dk
 
-- Github links only please
+### Rules:
+
+- The solution **must** solve the primary problem
+- The submission **must** include a github link to the solution
+- The submission **must** be handed in before deadline
