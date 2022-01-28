@@ -8,7 +8,7 @@ If you have a better name for the challenge please post it here 😅:
 
 [Vote here](https://forms.office.com/Pages/ResponsePage.aspx?id=bjwM0SjCREmLamBnxq_jyaTsoAOojZ5AoaqUUFwjB19UMk00TDhXQ1U0RlhPSkJGRFgzTlBFUTdLNC4u)
 
-In the future I will aspire to include leaderbord, prizes and/or other stuff. (If students are willing to participate)
+In the future I will aspire to include leaderbord, prizes and/or other stuff. (If enough students are willing to participate)
 
 For now answers are send to my e-mail: NIFR@kea.dk
 
