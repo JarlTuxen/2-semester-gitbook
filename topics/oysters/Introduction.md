@@ -1,6 +1,6 @@
 # Weekly optional challenges
 
-Every 2. I will post a challenging programming exercise.
+Every 2. week I will post a challenging programming exercise.
 
 Usually these are interview questions from FAANG companies or other highly regarded companies.
 
