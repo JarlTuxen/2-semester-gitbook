@@ -1,4 +1,4 @@
-# 🐙 Oyster of the week
+# 🐙 Oyster of the week 🐙
 
 Every 2. week I will post a challenging programming exercise.
 
