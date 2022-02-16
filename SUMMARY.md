@@ -13,6 +13,7 @@
 * [Unit tests](topics/Unit-test.md)
 * [Sessions](topics/sessions.md)
 * [Oyster of the week](topics/oysters/Introduction.md)
+  * [Leaderboard](topics/oysters/Leaderboard.md) 
   * [1. Challenge](topics/oysters/week-1.md)
   * [2. Challenge](topics/oysters/week-2.md)
 * [FAQ](faq.md)
