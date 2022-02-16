@@ -1,5 +1,7 @@
 # 🐙 Oyster of the week 1
 
+**Deadline: 27/2-2022**
+
 This problem was asked by LinkedIn.
 
 Given a string, return whether it represents a number. Here are the different kinds of numbers:
