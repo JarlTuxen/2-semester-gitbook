@@ -129,14 +129,3 @@ The nodes have relationships between each other.
 * How many children does the `HTML` element have?
 
 If all of this is a bit confusing i get it! [Here](https://software.hixie.ch/utilities/js/live-dom-viewer/) you can see the html file, the DOM and the rendered html.
-
-### Deploy your website to the web
-
-* Create a new repository on GitHub.&#x20;
-* Add your `index.html` to that repo.&#x20;
-* Go to `settings` for that repo.&#x20;
-* Scroll down to where it says `GitHub Pages`.&#x20;
-* Where it says `source`, select `master` and then save.&#x20;
-* If you scroll back down you can see the url for your new portfolio! it should be called `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
-
-Now everytime you push changes to `master` your website will be updated!

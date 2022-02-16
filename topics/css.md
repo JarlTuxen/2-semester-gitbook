@@ -236,8 +236,6 @@ Now try and play around with `flex-direction` and with `justify-content` and `al
 
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-_Practical example_
-
 ## Bootstrap
 
 Bootstrap is a css framework that helps you develop nice layouts and styling quickly. It basiscally works by adding specific elements with specific Bootstrap classes.
