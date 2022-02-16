@@ -98,7 +98,7 @@ An example of some sections on a page.
 
 ![Image not loaded go to https://github.com/behu-kea/dat20-classes/blob/master/week-1/assets/layout.png to see image](assets/layout.png)
 
-Let's go to [https://www.amsiq.com/da](https://www.amsiq.com/da) and see if we can identify the different areas.
+
 
 ## HTML DOM
 
@@ -127,5 +127,3 @@ The nodes have relationships between each other.
 * What relationship does the `div` with id `div1`  has to the `h1`?
 * Who is the `h1`'s grandparent?
 * How many children does the `HTML` element have?
-
-If all of this is a bit confusing i get it! [Here](https://software.hixie.ch/utilities/js/live-dom-viewer/) you can see the html file, the DOM and the rendered html.

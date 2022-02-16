@@ -2,8 +2,6 @@
 
 CSS stands for cascading style sheets. It means the styles that are added for an element cascades down to their children. Its like a waterfall where the water will continue cascading down affecting the pools below.
 
-Lets see a concrete example of that!
-
 ![Screenshot 2021-02-16 at 09.44.11](assets/css-overview.png)
 
 ## Adding css to your site
