@@ -13,7 +13,7 @@ Sending data to a server is essential for interacting with a website user. Creat
 
 HTML forms is used for sending data to the server. it comes from physical forms like these:
 
-[![PHYSICAL EXAMINATION CLEARANCE FORM                         This form must be on file in the school before practicing with...](html-forms.assets/physical-forms.png)](https://github.com/behu-kea/dat20-classes/blob/master/HTML Forms/assets/physical-forms.png)
+[![Physical form](html-forms.assets/physical-forms.png)](https://github.com/behu-kea/dat20-classes/blob/master/HTML Forms/assets/physical-forms.png)
 
 ## GET request vs POST request
 
@@ -28,7 +28,9 @@ Here is an example of a form
 
 ```html
 <form action="/sign-up" method="POST">
-    <input type="text" name="name"/>
+    <label for="name">Name</label>
+  	<input type="text" name="name"/>
+	  <label for="mobile">Name</label>
     <input type="tel" name="mobile" />
     <input type="checkbox" name="formal-name"/>
 
@@ -36,15 +38,19 @@ Here is an example of a form
 </form>
 ```
 
+Interpreted by the browser - it should look something like this
+
+![image-20220317151220588](html-forms.assets/image-20220317151220588.png)
+
 There are a few things going on. Lets disect it:
 
-`action="https://telmore.dk"` - The `action` attribute decides what url the form data should be send to.
+The `action` attribute decides what url the form data should be send to.
 
-`method="GET"` - The `method` attribute decides what kind of request to make. When posting we will mostly be using a `POST` request because we are creating a new user.
+`method="POST"` - The `method` attribute decides what kind of request to make. When posting we will  be using a `POST` request because we are creating a new user.
 
-`<label for="mobile">Write your mobile</label>` This is a label that is connected to some field. It helps the user figuring out what to put into the connected field. The connection between `label` and field happens with the `for` attribute and the `id` on the field.
+`<label for="mobile">Phone number</label>` This is a label that is connected to some field. It helps the user to identify what to enter into the connected field. The connection between `label` and field happens with the `for` attribute and the `id` or `name` on the field.
 
-`type="text"` - `input` fields can have a type. There are quite a lot of [types](https://www.w3schools.com/html/html_form_input_types.asp). it can help the user and also do a bit of validation on the frontend. So fx if you specify `type="number"` then the number keyboard will come up on the users mobile.
+`type="text"` - `input` fields can have a type. There are quite a lot of [types](https://www.w3schools.com/html/html_form_input_types.asp). it can help the user and also do a bit of validation on the frontend. So fx if you specify `type="number"` then the number keyboard will come up on the users smartphone.
 
 `name="mobile"` - When we send the data to a server, then name decides the key of that field. See below. Here is the `POST` request
 
