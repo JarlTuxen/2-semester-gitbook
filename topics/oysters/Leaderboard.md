@@ -6,7 +6,7 @@
 | Anne Sofie Fogh Christensen    | 1      |
 | Alexander Larsen               | 2      |
 | Carl-Emil Falk Mejer           | 1      |
-| Nicolas Alvi Mousten           | 1      |
+| Nicolas Alvi Mousten           | 2      |
 | Rasmus Ørum Mortensen          | 1      |
 | Md Nazmul Huq                  | 2      |
 | Battal Roni Özcan              | 1      |
