@@ -4,7 +4,7 @@
 | :----------------------------- | ------ |
 | Rashaun Lewing Godding         | 3      |
 | Anne Sofie Fogh Christensen    | 1      |
-| Alexander Larsen               | 2      |
+| Alexander Larsen               | 3      |
 | Carl-Emil Falk Mejer           | 1      |
 | Nicolas Alvi Mousten           | 2      |
 | Rasmus Ørum Mortensen          | 1      |
