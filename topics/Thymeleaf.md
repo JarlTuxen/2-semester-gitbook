@@ -190,7 +190,7 @@ https://www.baeldung.com/thymeleaf-iteration
 
 https://www.baeldung.com/spring-thymeleaf-fragments
 
-# Exercise 1
+## Exercise 1
 
 - Write a class EmailRepository
   - EmailRepository has a method: fetchSingleEmail
@@ -207,7 +207,7 @@ https://www.baeldung.com/spring-thymeleaf-fragments
   - The method returns a list of 4 e-mails
 - Refactor the template such that all e-mails are displayed
 
-# Exercise 2
+## Exercise 2
 
 Finish the FreeMoneyNoScam application with the following requirements fulfilled:
 
@@ -217,13 +217,17 @@ Finish the FreeMoneyNoScam application with the following requirements fulfilled
 
 
 
-# Advanced (Optional)
+## Advanced (Optional)
+
+- An e-mail can be flagged in the database as invalid
+- If an e-mail is flagged as invalid - it is not displayed in the list
+
+
+
+## Advanced (Optional)
 
 Write an application that:
 
 - Fetches news from an XML stream from a mainstream news-outlet. (This could be BT, Ekstra Bladet, Politiken etc.)
 
 - Displays the news from a mainstream news-outlet.
-
-
-
