@@ -1,6 +1,6 @@
 # Thymeleaf
 
-**Example Github repository:** https://github.com/nicklasdean/html-spring
+**Example Github repository:** https://github.com/nicklasdean/Tweater
 
 ### Overview
 
@@ -192,6 +192,8 @@ https://www.baeldung.com/spring-thymeleaf-fragments
 
 ## Exercise 1
 
+**In the FreeMoneyNoScamApplication:** 
+
 - Write a class EmailRepository
   - EmailRepository has a method: fetchSingleEmail
   - The method returns a String that contains an email
@@ -214,15 +216,6 @@ Finish the FreeMoneyNoScam application with the following requirements fulfilled
 - A user should be able to register their e-mail by a POST-request and a simple form
   - The e-mail should be saved in a database
 - A user should be able to see all registered e-mails on a seperate template
-
-
-
-## Advanced (Optional)
-
-- An e-mail can be flagged in the database as invalid
-- If an e-mail is flagged as invalid - it is not displayed in the list
-
-
 
 ## Advanced (Optional)
 
