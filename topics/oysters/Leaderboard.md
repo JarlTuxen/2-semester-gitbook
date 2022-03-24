@@ -8,7 +8,7 @@
 | Carl-Emil Falk Mejer           | 1      |
 | Nicolas Alvi Mousten           | 2      |
 | Rasmus Ørum Mortensen          | 1      |
-| Md Nazmul Huq                  | 2      |
+| Md Nazmul Huq                  | 3      |
 | Battal Roni Özcan              | 1      |
 | Christian Sandholdt Trip       | 3      |
 | Johannes Forsting              | 2      |
