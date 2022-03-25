@@ -66,9 +66,9 @@ import org.springframework.ui.Model;
 ```java
 @GetMapping("/user")
 public String user(Model model){
-    model.addAttribute("username","Nicklas");
-  	model.addAttribute("description","Lecturer at KEA");
-    return "user-information";
+	model.addAttribute("username","Nicklas");
+  model.addAttribute("description","Lecturer at KEA");
+  return "user-information";
 }
 ```
 
