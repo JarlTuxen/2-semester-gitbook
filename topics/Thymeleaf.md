@@ -209,14 +209,6 @@ https://www.baeldung.com/spring-thymeleaf-fragments
   - The method returns a list of 4 e-mails
 - Refactor the template such that all e-mails are displayed
 
-## Exercise 2
-
-Finish the FreeMoneyNoScam application with the following requirements fulfilled:
-
-- A user should be able to register their e-mail by a POST-request and a simple form
-  - The e-mail should be saved in a database
-- A user should be able to see all registered e-mails on a seperate template
-
 ## Advanced (Optional)
 
 Write an application that:
