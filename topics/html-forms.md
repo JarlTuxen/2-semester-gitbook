@@ -65,16 +65,17 @@ The `action` attribute decides what url the form data should be send to.
 Now we have figured out how to send the `POST` request (with data) to the server using forms. Now we need to figure out how to get that data in our `@controller`
 
 ```java
-@PostMapping(value = "/sign-up")
-@ResponseBody
-public String createNewUser(@RequestParam("name") String name, @RequestParam("mobile") int age) {
-    return "User created with name: " + name + " and mobile: " + mobile;
+@PostMapping("/sign-up")
+public String createNewUser(WebRequest request) {
+  	String username = request.getParameter();
+    String password = request.getParameter();
+    return "success";
 }
 ```
 
 Using the `@PostMapping` notation we can use it just like the `@GetMapping` specifying a `value` that will be the endpoint.
 
-To get data out of the `POST` request use `@RequestParam("name") String name`. `@RequestParam` specifies the key you are looking for. Remember that the `name` attribute on the field decided the key!
+To get data out of the `POST` request use `WebRequest objects getParameter()`. `getParameter()` specifies the key you are looking for.
 
 
 

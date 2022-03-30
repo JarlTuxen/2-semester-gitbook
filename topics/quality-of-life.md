@@ -26,7 +26,15 @@
 </dependency>
 ```
 
-![image-20220317131435292](quality-of-life.assets/image-20220317131435292.png)
+![image-20220330100500797](quality-of-life.assets/image-20220330100500797.png)
+
+Check box:
+
+- **File/Settings (Windows) / Preferences (Mac) **> **Advanced settings**
+
+**Allow auto-make to start even if developed application is currently running**
+
+![image-20220330100725512](quality-of-life.assets/image-20220330100725512.png)
 
 ## Multi-reference CSS
 
