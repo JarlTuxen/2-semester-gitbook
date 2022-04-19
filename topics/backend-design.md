@@ -4,21 +4,25 @@ Boilerplate:
 
 https://github.com/nicklasdean/spring-jdbc
 
+Data:
+
+https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
+
 ## **Learning objectives**
 
 - Retrieving data with the JDBC API designed as a Singleton
 
-- Building GRASP & DRY compliant repositories
+  - https://refactoring.guru/design-patterns/singleton
 
-- Storing username & passwords in seperate files
+- Building repositories as CRUD interfaces
 
-- (Advanced)
+- Storing DB username & passwords safely
 
-  - Implement CRUD interface with generics
 
-  
 
-## Exercises
+## Exercises in class
+
+**Styling is not prioritized here. The main concern is viewing the data in an HTML file**
 
 ### 1. View all employees
 
@@ -66,6 +70,12 @@ A new repository method for querying an insert statement with data from POST for
 
 
 
+### (Advanced) 4. View all employees by department name
+
+Hint: Join
+
+
+
 ## Advanced: Building a Pokedex
 
 The data can be found here https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
@@ -83,7 +93,7 @@ The data can be found here https://github.com/nicklasdean/dat20c-temp/blob/maste
 - Create a new database schema for the data
 - Create a table for the data
 - Insert the data
-- Build the following views that displays:
+- Build the following views that displays: **Query as much as possible in SQL as this is more efficiant**
   - How many pokemon exists pr. primary type?
   - What are the average defence for all pokemon?
   - What are the average hp for (primary) grass types?
