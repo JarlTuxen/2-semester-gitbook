@@ -10,7 +10,7 @@ https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 
 ## **Learning objectives**
 
-- Retrieving data with the JDBC API designed as a Singleton with Prepared Statements
+- **Retrieving data with the JDBC API designed as a Singleton with Prepared Statements**
 
   - https://refactoring.guru/design-patterns/singleton
   - https://jstobigdata.com/java/singleton-design-pattern-in-java-with-a-real-world-example/
@@ -18,7 +18,7 @@ https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 
   
 
-- Storing DB username & passwords safely
+- **Storing DB username & passwords safely**
 
   - https://mkyong.com/java/java-properties-file-examples/
   - https://www.jetbrains.com/help/objc/add-environment-variables-and-program-arguments.html
@@ -26,7 +26,7 @@ https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 
 
 
-- Building repositories as CRUD interfaces
+- **Building repositories as CRUD interfaces**
 
 
 
@@ -103,10 +103,11 @@ The data can be found here https://github.com/nicklasdean/dat20c-temp/blob/maste
 - Create a new database schema for the data
 - Create a table for the data
 - Insert the data
-- Build the following views that displays: **Query as much as possible in SQL as this is more efficiant**
+- Build the following views that displays:
   - How many pokemon exists pr. primary type?
   - What are the average defence for all pokemon?
   - What are the average hp for (primary) grass types?
   - How many fire pokemon has higher hp than the average pokemon?
   - What primary type are the fastest?
 
+**Query as much as possible in SQL as this is more efficiant**
