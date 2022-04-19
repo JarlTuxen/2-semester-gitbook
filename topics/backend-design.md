@@ -1,10 +1,10 @@
 # Backend design
 
-Boilerplate:
+**Boilerplate:**
 
 https://github.com/nicklasdean/spring-jdbc
 
-Data:
+**Data:**
 
 https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 
@@ -13,10 +13,19 @@ https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 - Retrieving data with the JDBC API designed as a Singleton
 
   - https://refactoring.guru/design-patterns/singleton
+  - https://jstobigdata.com/java/singleton-design-pattern-in-java-with-a-real-world-example/
 
-- Building repositories as CRUD interfaces
+  
 
 - Storing DB username & passwords safely
+
+  - https://mkyong.com/java/java-properties-file-examples/
+  - https://www.jetbrains.com/help/objc/add-environment-variables-and-program-arguments.html
+
+
+
+
+- Building repositories as CRUD interfaces
 
 
 

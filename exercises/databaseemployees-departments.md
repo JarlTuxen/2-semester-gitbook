@@ -10,7 +10,7 @@
 #### Create database employees-departments
 
 ```sql
-CREATE DATABASE employees-departments;
+CREATE DATABASE employees_departments;
 ```
 
 Run following script
