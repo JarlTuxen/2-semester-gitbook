@@ -13,7 +13,6 @@ https://nicklasdean.gitbook.io/2-semester/databaseemployees-departments
 - **Retrieving data with the JDBC API designed as a Singleton with Prepared Statements**
 
   - https://refactoring.guru/design-patterns/singleton
-  - https://jstobigdata.com/java/singleton-design-pattern-in-java-with-a-real-world-example/
   - https://www.tutorialspoint.com/javaexamples/jdbc_prepared_statement.htm
 
   
