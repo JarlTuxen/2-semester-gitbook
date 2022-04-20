@@ -48,3 +48,22 @@ Check box:
     <link rel="stylesheet" th:href="@{style.css}" href="../static/style.css">
 ```
 
+## Environment Variables
+
+**Upper Right Corner -> Edit Configurations**
+
+![image-20220420102720668](/Users/dean/Library/Application Support/typora-user-images/image-20220420102720668.png)
+
+**Modify options**
+
+Check Environment Variables
+
+![image-20220420102821080](/Users/dean/Library/Application Support/typora-user-images/image-20220420102821080.png)
+
+**Edit Environment Variables**
+
+![image-20220420102858994](/Users/dean/Library/Application Support/typora-user-images/image-20220420102858994.png)
+
+**Add Environment Variables**
+
+![image-20220420102913743](/Users/dean/Library/Application Support/typora-user-images/image-20220420102913743.png)
