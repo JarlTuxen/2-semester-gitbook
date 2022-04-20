@@ -1,4 +1,4 @@
-# 🐙 Oyster of the week 1
+# 🐙 Oyster of the week
 
 **Deadline: 20/3-2022**
 
@@ -13,3 +13,4 @@ Send answer to NIFR@kea.dk include
 - Challenge number
 
 - Github link
+

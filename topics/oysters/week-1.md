@@ -1,4 +1,4 @@
-# 🐙 Oyster of the week 1
+# 🐙 Oyster of the week
 
 **Deadline: 13/2-2022**
 
