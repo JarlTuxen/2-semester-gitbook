@@ -18,4 +18,5 @@
   * [1. Challenge](topics/oysters/week-1.md)
   * [2. Challenge](topics/oysters/week-2.md)
   * [3. Challenge](topics/oysters/week-3.md) 
+  * [4. Challenge](topics/oysters/week-4.md) 
 * [FAQ](faq.md)
