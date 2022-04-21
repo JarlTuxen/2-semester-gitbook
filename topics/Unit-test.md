@@ -1,41 +1,52 @@
-# Unit Tests: Pair programming
+# Unit Tests
 
 **Very informative article** 
 
 https://freecontent.manning.com/making-better-unit-tests-part-1-the-aaa-pattern/
 
-**Exercise**
-
-- Write unit tests that verifies that your e-mail verification services works as intended
-  - Identify cases & borderline analysis
-- Write unit tests that verifies that two of your service methods in movie-analysis works as intended
-  - Identify cases & borderline analysis
-
-###### Advanced
-
-https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
-
-###### Answer the following questions:
-
-###### 1. What are the contents of the data-set?
-
-###### 2. What are the semantics (meaning) of the data-set?
-
-###### Exercises:
-
-- Create a new database schema for the data
-- Create a table for the data
-- Insert the data
-
-Write services with methods that answers the following questions:
-
-- How many pokemon exists pr. primary type?
-- What are the average defence for all pokemon?
-- What are the average hp for (primary) grass types?
-- How many fire pokemon has higher hp than the average pokemon?
-- What primary type are the fastest?
+Note: **You should use test-data and not fetch data from the repository**
 
 
 
-Write unit tests to prove your service methods works
+**Exercise 1**
 
+Implement a method with the following functionality: 
+
+- If the method receives: 
+  - 5-12 return "morning"
+  - 12-16 return "afternoon"
+  - 16-22 return "evening"
+  - 22-5 return "night"
+- Identify equivalence partitions
+- Unit-test the code
+
+
+
+**Exercise 2**
+
+Implement a method with the following functionality:
+
+- A valid department number has:
+  - 2 or 3 digits
+  - Is divisible by 10 (meaning that 21 is not valid where 20 is valid)
+
+- Unit-test the code
+
+
+
+**Exercise 3 - employees and departments** 
+
+Implement a method with the following functionality:
+
+- An employee can never receive a higher commission than their base salary
+- The method receives an employee object and returns true if the salary is valid
+- The method returns false if the salary is not valid
+- Unit-test the code
+
+
+
+**(Advanced) Exercise 4 - employees and departments**
+
+- Implement the following functionality:
+  - Given an Employee object, return true if the Employee has a salary above the average of all employees
+- Unit-test the code
