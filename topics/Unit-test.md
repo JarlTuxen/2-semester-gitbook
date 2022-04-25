@@ -4,6 +4,10 @@
 
 https://freecontent.manning.com/making-better-unit-tests-part-1-the-aaa-pattern/
 
+**Video**
+
+https://youtu.be/vZm0lHciFsQ
+
 Note: **You should use test-data and not fetch data from the repository**
 
 
