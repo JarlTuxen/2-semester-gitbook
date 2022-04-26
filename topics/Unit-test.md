@@ -14,7 +14,7 @@ https://github.com/nicklasdean/spring-jdbc
 
 Note: **You should use test-data and not fetch data from the repository**
 
-
+## Exercise-set #1
 
 **Exercise 1**
 
@@ -58,3 +58,36 @@ Implement a method with the following functionality:
 - Implement the following functionality:
   - Given an Employee object, return true if the Employee has a salary above the average of all employees
 - Unit-test the code
+
+
+
+## Exercise-set #2
+
+##### **(Improvement) Exercise 4.2 - employees and departments**
+
+- Implement the following functionality:
+  - Given an Employee object, return true if the Employee has a salary above the average of all employees
+- Unit-test the code
+  - Write a mock/test repository that implements the CRUD interface
+  - Use the aforementioned mock/test repository to unit-test
+
+
+
+##### Exercise 1
+
+- Implement the following functionality:
+  - Write a service method that finds and returns the highest department number 
+- Unit-test the code
+  - Use a mock/test repository to unit-test
+
+**Exercise 2**
+
+- Implement the following functionality: 
+  - Write a service method that returns department with the most employees
+- Unit-test the code
+  - Use a mock/test repository to unit-test
+
+**(Advanced) Exercise 3**
+
+- Implement the following functionality: 
+  - Write a service method that calculates and returns the Department name with the highest average salary
