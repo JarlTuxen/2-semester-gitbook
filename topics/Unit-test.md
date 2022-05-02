@@ -71,8 +71,6 @@ Implement a method with the following functionality:
   - Write a mock/test repository that implements the CRUD interface
   - Use the aforementioned mock/test repository to unit-test
 
-
-
 ##### Exercise 1
 
 - Implement the following functionality:
