@@ -13,10 +13,10 @@
 * [Unit tests](topics/Unit-test.md)
 * [Sessions](topics/sessions.md)
 * [Development Tools](topics/quality-of-life.md) 
-* [Oyster of the week](topics/oysters/Introduction.md)
+<!-- * [Oyster of the week](topics/oysters/Introduction.md)
   * [Leaderboard](topics/oysters/Leaderboard.md) 
   * [1. Challenge](topics/oysters/week-1.md)
   * [2. Challenge](topics/oysters/week-2.md)
   * [3. Challenge](topics/oysters/week-3.md) 
-  * [4. Challenge](topics/oysters/week-4.md) 
+  * [4. Challenge](topics/oysters/week-4.md) -->
 * [FAQ](faq.md)
