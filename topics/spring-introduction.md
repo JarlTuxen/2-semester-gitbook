@@ -2,10 +2,10 @@
 
 [https://github.com/jarltuxen/HelloSpring](https://github.com/jarltuxen/HelloSpring)
 
-![New project from wizard](spring-introduction.assets/image-20210923092334208.png)
+[New project from wizard](spring-introduction.assets/image-20210923092334208.png)
 
-![Naming](<../.gitbook/assets/image-20210923090334712 (1).png>)
+[Naming](<../.gitbook/assets/image-20210923090334712 (1).png>)
 
-![Dependencies](spring-introduction.assets/image-20210923092414549.png)
+[Dependencies](spring-introduction.assets/image-20210923092414549.png)
 
-![Done](spring-introduction.assets/image-20210923092447170.png)
+[Done](spring-introduction.assets/image-20210923092447170.png)
