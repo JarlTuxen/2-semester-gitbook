@@ -30,7 +30,7 @@ Here is an example of a form
 <form action="/sign-up" method="POST">
     <label for="name">Name</label>
   	<input type="text" name="name"/>
-	  <label for="mobile">Name</label>
+	  <label for="mobile">Phone</label>
     <input type="tel" name="mobile" />
     <input type="checkbox" name="formal-name"/>
 
