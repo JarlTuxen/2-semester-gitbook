@@ -88,6 +88,7 @@ Hint: Join
 ## Advanced: Building a Pokedex
 
 The data can be found here https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
+and in resources in the Fronter plan as pokemon-insert-data.sql. Download it and open it in MySQL Workbench.
 
 ##### Reflect before engineering:
 
