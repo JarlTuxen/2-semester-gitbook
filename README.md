@@ -1,5 +1,5 @@
 ---
-description: Dat22v2 Programmering
+description: 2. semester programmering
 ---
 
 # Velkommen
