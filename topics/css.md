@@ -191,11 +191,9 @@ section .user-name {
 }
 ```
 
-Exercise: [https://www.w3schools.com/css/exercise.asp?filename=exercise\_positioning5](https://www.w3schools.com/css/exercise.asp?filename=exercise\_positioning5)
-
 #### Fixed
 
-A fixed element always appear at the same place on the screen no matter of someone scrolls! Imagine a cookie accept box.
+A fixed element always appear at the same place on the screen (viewport) no matter of someone scrolls! Imagine a cookie accept box.
 
 ```css
 section .user-name {
