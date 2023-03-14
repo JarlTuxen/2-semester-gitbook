@@ -107,7 +107,7 @@ and in resources in the Fronter plan as pokemon-insert-data.sql. Download it and
   - How many pokemon exists pr. primary type? (15 rows - first is Water 28)
   - What are the average defence for all pokemon? (68)
   - What are the average hp for (primary) grass types? (65)
-  - How many fire pokemon has higher hp than the average pokemon? (64.2119)
+  - How many fire pokemon has higher hp than the average pokemon? (7 pokemon - subquery avg 64.2119)
   - What primary type are the fastest? (Electric 140)
 
 **Query as much as possible in SQL as this is more efficiant**
