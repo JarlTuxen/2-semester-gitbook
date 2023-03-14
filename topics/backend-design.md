@@ -104,10 +104,10 @@ and in resources in the Fronter plan as pokemon-insert-data.sql. Download it and
 - Create a table for the data
 - Insert the data
 - Build the following views that displays:
-  - How many pokemon exists pr. primary type?
-  - What are the average defence for all pokemon?
-  - What are the average hp for (primary) grass types?
-  - How many fire pokemon has higher hp than the average pokemon?
-  - What primary type are the fastest?
+  - How many pokemon exists pr. primary type? (15 rows - first is Water 28)
+  - What are the average defence for all pokemon? (68)
+  - What are the average hp for (primary) grass types? (65)
+  - How many fire pokemon has higher hp than the average pokemon? (64.2119)
+  - What primary type are the fastest? (Electric 140)
 
 **Query as much as possible in SQL as this is more efficiant**
