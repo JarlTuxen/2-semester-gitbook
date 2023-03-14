@@ -108,6 +108,6 @@ and in resources in the Fronter plan as pokemon-insert-data.sql. Download it and
   - What are the average defence for all pokemon? (68)
   - What are the average hp for (primary) grass types? (65)
   - How many fire pokemon has higher hp than the average pokemon? (7 pokemon - subquery avg 64.2119)
-  - What primary type are the fastest? (Electric 140)
+  - What primary type are the fastest? (fastest pokemon Electric 140, fastest type Electric 98,89)
 
 **Query as much as possible in SQL as this is more efficiant**
