@@ -52,7 +52,7 @@ public String invalidate(HttpSession session){
 }
 ```
 
-Lets disect what happens here:
+Lets examine what happens here:
 
 There are 3 endpoints
 
@@ -75,7 +75,7 @@ Let's dive into some of the code
 
 ### What can i save?
 
-Anything you would like! `String`, `Integer`, `ArrayList`, some class it does not matter!
+Anything you would like! `String`, `Integer`, `ArrayList`, any object or collection it does not matter!
 
 
 
@@ -161,11 +161,11 @@ We can also use `session.size()` and `session.isEmpty()`
 
 ## Exercises
 
+The goal is to introduce a shopping basket to a webshop. The shopping basked overview, `basket.html` should display the total price of for the items in the shopping basket.
+
 - Add functionality such that a customer can add cookies to his/her basket and change pages without losing the baskets state
 
 - Add functionality such that the basket page displays the total sum of the price of cookies in his/hers basket
-
-
 
 #### Advanced
 
