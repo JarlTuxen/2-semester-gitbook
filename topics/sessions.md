@@ -2,7 +2,7 @@
 
 # Sessions
 
-**Case**: https://github.com/nicklasdean/cookie-shop
+**Case**: https://github.com/JarlTuxen/SessionBakery
 
 - What is a session and why do we use it?
 - Implementing session for spring boot
@@ -162,6 +162,7 @@ We can also use `session.size()` and `session.isEmpty()`
 ## Exercises
 
 The goal is to introduce a shopping basket to a webshop. The shopping basked overview, `basket.html` should display the total price of for the items in the shopping basket.
+[https://github.com/JarlTuxen/SessionBakery](https://github.com/JarlTuxen/SessionBakery)
 
 - Add functionality such that a customer can add cookies to his/her basket and change pages without losing the baskets state
 
